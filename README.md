@@ -26,3 +26,23 @@ We can broadly divide this entire thing into two parts.
 
  1. Talking about Tools that facilitate Visualizations
  2. Frameworks that enable an Individual with the language he/she is comfortable in. 
+
+Tools
+-------
+
+ 1. TileMill
+ 2. Spss
+ 3. Matlab
+ 4. GePhi
+ 5. Tableau
+ 6. AdobeCS
+ 7. Mathematica
+ 8. Qlik Sense
+ 9. NodeBox
+ 10. Watson-Analytics
+ 11. Instant Atlas
+ 12. Weka
+ 13. yWorks
+ 14. SAS Visual Analytics
+ 15. Visua.ly
+ 16. CartoDB
