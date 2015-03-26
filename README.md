@@ -9,7 +9,7 @@ Visualization Classification
 --------------------------------
 According to my research and understanding till now, I would go ahead and set up a classification of all the visualizations as follows:-
 
-
+ 1. List item
 
 Documents
 -------------
