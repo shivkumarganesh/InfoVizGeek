@@ -46,3 +46,15 @@ Tools
  14. SAS Visual Analytics
  15. Visua.ly
  16. CartoDB
+
+Frameworks based on Programming Languages
+--------------------------------------------------------
+
+ 1. C
+ 2. JavaScript
+ 3. Java
+ 4. Flash
+ 5. Processing
+ 6. Python
+ 7. Ruby
+ 8. R
