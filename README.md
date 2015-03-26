@@ -19,3 +19,10 @@ According to my research and understanding till now, I would go ahead and set up
  8. Infographics
  9. Multiple
  10. Physical
+
+Tools & Frameworks
+-------------------------
+We can broadly divide this entire thing into two parts. 
+
+ 1. Talking about Tools that facilitate Visualizations
+ 2. Frameworks that enable an Individual with the language he/she is comfortable in. 
