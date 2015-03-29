@@ -91,6 +91,10 @@ We can broadly divide this entire thing into two parts.
 | Cesium                   |      |      |         |
 |                          |      |      |         |
 #####Text Visualization
+| Framework/SDK         | Link | Type | License |
+|-----------------------|------|------|---------|
+| Tangle                |      |      |         |
+
 #####D3 Based Libraries
 | Framework/SDK | Link                       | Type                      | License  |
 |---------------|----------------------------|---------------------------|----------|
@@ -107,6 +111,14 @@ We can broadly divide this entire thing into two parts.
 | Plotly        |                            |                           |          |
 | MayaAVI       |                            |                           |          |
 #####Other Useful JavaScript Components
+| Framework/SDK         | Link | Type | License |
+|-----------------------|------|------|---------|
+| ThreeJS               |      |      |         |
+| D3JS                  |      |      |         |
+| ProcessingJS          |      |      |         |
+| PaperJS               |      |      |         |
+| CrossFilter           |      |      |         |
+| Jquery/Jquery Plugins |      |      |         |
 
 ####Java
 | Framework/SDK | Link | Type | Platform | License |
