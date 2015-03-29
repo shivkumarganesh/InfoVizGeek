@@ -42,14 +42,14 @@ We can broadly divide this entire thing into two parts.
  15. [CartoDB](http://cartodb.com/)
 
 ###Frameworks based on Programming Languages
- 1. [C](https://github.com/shivkumarganesh/InfoVizGeek/wiki/C)
- 2. [JavaScript](https://github.com/shivkumarganesh/InfoVizGeek/wiki/JavaScript)
- 3. [Java](https://github.com/shivkumarganesh/InfoVizGeek/wiki/Java)
- 4. [Flash](https://github.com/shivkumarganesh/InfoVizGeek/wiki/Flash)
- 5. [Processing](https://github.com/shivkumarganesh/InfoVizGeek/wiki/Processing)
- 6. [Python](https://github.com/shivkumarganesh/InfoVizGeek/wiki/Python)
- 7. [Ruby](https://github.com/shivkumarganesh/InfoVizGeek/wiki/Ruby)
- 8. [R](https://github.com/shivkumarganesh/InfoVizGeek/wiki/R)
+ 1. [C](#c)
+ 2. [JavaScript](#javascript)
+ 3. [Java](#java)
+ 4. [Flash](#flash)
+ 5. [Processing](#processing)
+ 6. [Python](#python)
+ 7. [Ruby](#ruby)
+ 8. [R](#r)
  
 ####C
 | SN0. 	| Framework/SDK 	| Link                  	| License                	|
