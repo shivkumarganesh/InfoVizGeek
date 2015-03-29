@@ -50,11 +50,11 @@ Tools
 Frameworks based on Programming Languages
 --------------------------------------------------------
 
- 1. C
- 2. JavaScript
- 3. Java
- 4. Flash
- 5. Processing
- 6. Python
- 7. Ruby
- 8. R
+ 1. [C](https://github.com/shivkumarganesh/InfoVizGeek/wiki/C)
+ 2. [JavaScript](https://github.com/shivkumarganesh/InfoVizGeek/wiki/JavaScript)
+ 3. [Java](https://github.com/shivkumarganesh/InfoVizGeek/wiki/Java)
+ 4. [Flash](https://github.com/shivkumarganesh/InfoVizGeek/wiki/Flash)
+ 5. [Processing](https://github.com/shivkumarganesh/InfoVizGeek/wiki/Processing)
+ 6. [Python](https://github.com/shivkumarganesh/InfoVizGeek/wiki/Python)
+ 7. [Ruby](https://github.com/shivkumarganesh/InfoVizGeek/wiki/Ruby)
+ 8. [R](https://github.com/shivkumarganesh/InfoVizGeek/wiki/R)
