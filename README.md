@@ -25,22 +25,21 @@ We can broadly divide this entire thing into two parts.
  2. Frameworks that enable an Individual with the language he/she is comfortable in. 
 
 ###Tools
- 1. TileMill
- 2. Spss
- 3. Matlab
- 4. GePhi
- 5. Tableau
- 6. AdobeCS
- 7. Mathematica
- 8. Qlik Sense
- 9. NodeBox
- 10. Watson-Analytics
- 11. Instant Atlas
- 12. Weka
- 13. yWorks
- 14. SAS Visual Analytics
- 15. Visua.ly
- 16. CartoDB
+ 1. [TileMill](https://github.com/shivkumarganesh/InfoVizGeek/wiki/TileMill)
+ 2. [Spss](https://github.com/shivkumarganesh/InfoVizGeek/wiki/Spss)
+ 3. [Matlab](https://github.com/shivkumarganesh/InfoVizGeek/wiki/Matlab)
+ 4. [Tableau](https://github.com/shivkumarganesh/InfoVizGeek/wiki/Tableau)
+ 5. [AdobeCS](https://github.com/shivkumarganesh/InfoVizGeek/wiki/AdobeCS)
+ 6. [Mathematica](https://github.com/shivkumarganesh/InfoVizGeek/wiki/Mathematica)
+ 7. [Qlik Sense](https://github.com/shivkumarganesh/InfoVizGeek/wiki/QlikSense)
+ 8. [NodeBox](https://github.com/shivkumarganesh/InfoVizGeek/wiki/NodeBox)
+ 9. [Watson-Analytics](https://github.com/shivkumarganesh/InfoVizGeek/wiki/Watson-Analytics)
+ 10. [Instant Atlas](https://github.com/shivkumarganesh/InfoVizGeek/wiki/InstantAtlas)
+ 11. [Weka](https://github.com/shivkumarganesh/InfoVizGeek/wiki/Weka)
+ 12. [yWorks](https://github.com/shivkumarganesh/InfoVizGeek/wiki/yWorks)
+ 13. [SAS Visual Analytics](https://github.com/shivkumarganesh/InfoVizGeek/wiki/SASVisualAnalytics)
+ 14. [Visua.ly](https://github.com/shivkumarganesh/InfoVizGeek/wiki/Visua.ly)
+ 15. [CartoDB](https://github.com/shivkumarganesh/InfoVizGeek/wiki/CartoDB)
 
 ###Frameworks based on Programming Languages
  1. [C](https://github.com/shivkumarganesh/InfoVizGeek/wiki/C)
