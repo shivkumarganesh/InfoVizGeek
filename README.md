@@ -65,7 +65,6 @@ We can broadly divide this entire thing into two parts.
 | Prefuse | http://bit.ly/1OA2jmB | Java 2D graphics library | - | BSD license |
 | JFree | http://bit.ly/1bwz7ho | Plotting Software | Cross-platform | LGPL |
 | Jung | http://bit.ly/1BNIiic | graph clustering | Cross-platform | BSDlicense |
-__________________________________________________________________________________________________________
 
 ####Flash
 
@@ -87,7 +86,6 @@ ________________________________________________________________________________
 | PyGal |  |  |  |
 | Plotly |  |  |  |
 | MayaAVI |  |  |  |
-_________________________________________________________________________________________________________________
 
 ####Ruby
 
