@@ -57,6 +57,14 @@ We can broadly divide this entire thing into two parts.
 | 1    	| GraphViz      	| http://bit.ly/19mQ0Jr 	| Eclipse Public License 	|
 
 ####JavaScript
+Its always better to divide JavaScript or any other library with tons of options into subsequent subdivisions.
+
+ - [Charting Libraries](#charting-libraries)
+ - [Maps](#maps)
+ - [Text Visualization](#text-visualization)
+ - [D3 Based Libraries](#d3-based-libraries)
+ - [Other useful JavaScript Components](#other-useful-javascript-components)
+
 #####Charting Libraries
 | Framework/SDK | Link | Type | License |
 |---------------|------|------|---------|
