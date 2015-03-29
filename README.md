@@ -58,3 +58,53 @@ Frameworks based on Programming Languages
  6. [Python](https://github.com/shivkumarganesh/InfoVizGeek/wiki/Python)
  7. [Ruby](https://github.com/shivkumarganesh/InfoVizGeek/wiki/Ruby)
  8. [R](https://github.com/shivkumarganesh/InfoVizGeek/wiki/R)
+ 
+C
+--
+| SN0. 	| Framework/SDK 	| Link                  	| License                	|
+|------	|---------------	|-----------------------	|------------------------	|
+| 1    	| GraphViz      	| http://bit.ly/19mQ0Jr 	| Eclipse Public License 	|
+
+JavaScript
+----------
+
+Java
+----
+| Framework/SDK | Link | Type | Platform | License |
+|---------------|-----------------------|----------------------------|----------------|----------------|
+| JavaFX | http://bit.ly/1ybbNun | Rich Internet applications | Cross-platform | parts underGPL |
+| Prefuse | http://bit.ly/1OA2jmB | Java 2D graphics library | - | BSD license |
+| JFree | http://bit.ly/1bwz7ho | Plotting Software | Cross-platform | LGPL |
+| Jung | http://bit.ly/1BNIiic | graph clustering | Cross-platform | BSDlicense |
+__________________________________________________________________________________________________________
+
+Flash
+-----
+
+Processing
+----------
+
+Python
+------
+| Framework/SDK | Link | Type | License |
+|---------------|----------------------------|---------------------------|----------|
+| Bokeh | http://bit.ly/1IyyjDy | Interactive Visualization | BSD |
+| Vispy | http://bit.ly/1FL7bTj | OpenGL | BSD |
+| Seaborn | http://stanford.io/1EXCN5p | Statistical Visualization | PERSONAL |
+| Matplotlib | http://bit.ly/1GZiQet | 2D Plotting | PSF |
+| Python IGraph | http://bit.ly/1NiYi2x | Graph/Plots | GPL |
+| ggPlot | http://bit.ly/1Gsz1my | Plots | PERSONAL |
+| NetworkX | http://bit.ly/1ycAuX7 | Complex Networks |  |
+| PyGraphViz |  |  |  |
+| Pandas |  |  |  |
+| PyGal |  |  |  |
+| Plotly |  |  |  |
+| MayaAVI |  |  |  |
+_________________________________________________________________________________________________________________
+
+Ruby
+----
+
+R
+-
+
