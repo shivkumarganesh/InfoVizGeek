@@ -104,20 +104,16 @@ Its always better to divide JavaScript or any other library with tons of options
 | Tangle                |      |      |         |
 
 #####D3 Based Libraries
-| Framework/SDK | Link                       | Type                      | License  |
-|---------------|----------------------------|---------------------------|----------|
-| Bokeh         | http://bit.ly/1IyyjDy      | Interactive Visualization | BSD      |
-| Vispy         | http://bit.ly/1FL7bTj      | OpenGL                    | BSD      |
-| Seaborn       | http://stanford.io/1EXCN5p | Statistical Visualization | PERSONAL |
-| Matplotlib    | http://bit.ly/1GZiQet      | 2D Plotting               | PSF      |
-| Python IGraph | http://bit.ly/1NiYi2x      | Graph/Plots               | GPL      |
-| ggPlot        | http://bit.ly/1Gsz1my      | Plots                     | PERSONAL |
-| NetworkX      | http://bit.ly/1ycAuX7      | Complex Networks          |          |
-| PyGraphViz    |                            |                           |          |
-| Pandas        |                            |                           |          |
-| PyGal         |                            |                           |          |
-| Plotly        |                            |                           |          |
-| MayaAVI       |                            |                           |          |
+| Framework/SDK   | Link | Type |   |
+|-----------------|------|------|---|
+| NVD3            |      |      |   |
+| C3              |      |      |   |
+| DimpleJS        |      |      |   |
+| DC              |      |      |   |
+| D3Xter          |      |      |   |
+| MetricsGraphics |      |      |   |
+| Epoch           |      |      |   |
+| Sparkline       |      |      |   |
 #####Other Useful JavaScript Components
 | Framework/SDK         | Link | Type | License |
 |-----------------------|------|------|---------|
