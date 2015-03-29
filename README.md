@@ -57,6 +57,56 @@ We can broadly divide this entire thing into two parts.
 | 1    	| GraphViz      	| http://bit.ly/19mQ0Jr 	| Eclipse Public License 	|
 
 ####JavaScript
+#####Charting Libraries
+| Framework/SDK | Link | Type | License |
+|---------------|------|------|---------|
+| TauCharts     |      |      |         |
+| VisJS         |      |      |         |
+| TimesheetJS   |      |      |         |
+| JSPlumb       |      |      |         |
+| Chartist      |      |      |         |
+| ChartJS       |      |      |         |
+| Ember Charts  |      |      |         |
+| Rahpael       |      |      |         |
+| Sparky        |      |      |         |
+| PolyJS        |      |      |         |
+| JQPlot        |      |      |         |
+| FFChart Well  |      |      |         |
+|               |      |      |         |
+#####Maps
+| Framework/SDK            | Link | Type | License |
+|--------------------------|------|------|---------|
+| Leaflet                  |      |      |         |
+| TopoJSON                 |      |      |         |
+| Leaflet TopoJSON Support |      |      |         |
+| Leaflet Plugins          |      |      |         |
+| Leaflet Generator        |      |      |         |
+| Planetary                |      |      |         |
+| Smallworld               |      |      |         |
+| Turf                     |      |      |         |
+| OsmBuildings             |      |      |         |
+| Open Layers 3            |      |      |         |
+| Karto Graph              |      |      |         |
+| Mapsicon                 |      |      |         |
+| Cesium                   |      |      |         |
+|                          |      |      |         |
+#####Text Visualization
+#####D3 Based Libraries
+| Framework/SDK | Link                       | Type                      | License  |
+|---------------|----------------------------|---------------------------|----------|
+| Bokeh         | http://bit.ly/1IyyjDy      | Interactive Visualization | BSD      |
+| Vispy         | http://bit.ly/1FL7bTj      | OpenGL                    | BSD      |
+| Seaborn       | http://stanford.io/1EXCN5p | Statistical Visualization | PERSONAL |
+| Matplotlib    | http://bit.ly/1GZiQet      | 2D Plotting               | PSF      |
+| Python IGraph | http://bit.ly/1NiYi2x      | Graph/Plots               | GPL      |
+| ggPlot        | http://bit.ly/1Gsz1my      | Plots                     | PERSONAL |
+| NetworkX      | http://bit.ly/1ycAuX7      | Complex Networks          |          |
+| PyGraphViz    |                            |                           |          |
+| Pandas        |                            |                           |          |
+| PyGal         |                            |                           |          |
+| Plotly        |                            |                           |          |
+| MayaAVI       |                            |                           |          |
+#####Other Useful JavaScript Components
 
 ####Java
 | Framework/SDK | Link | Type | Platform | License |
