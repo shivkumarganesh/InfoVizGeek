@@ -108,8 +108,8 @@ Its always better to divide JavaScript or any other library with tons of options
 |-----------------|------|------|---|
 | NVD3| http://nvd3.org |D3 based reusable Charting Lib   | Apache License V2  |
 | C3| http://c3js.org|   D3 based reusable Charting Lib    | MIT  |
-| DimpleJS        | http://dimplejs.org     | D3 based reusable Charting Lib     | MIT  |
-| DC              |      |      |   |
+| DimpleJS| http://dimplejs.org| D3 based reusable Charting Lib     | MIT  |
+| DC| http://bit.ly/1NAI4lm     |      |   |
 | D3Xter          |      |      |   |
 | MetricsGraphics |      |      |   |
 | Epoch           |      |      |   |
