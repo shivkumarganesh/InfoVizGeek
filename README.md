@@ -90,7 +90,7 @@ Its always better to divide JavaScript or any other library with tons of options
 | Planetary |http://bit.ly/1FeyrqL| Interactive Globes     |    PERSONAL     |
 | Smallworld| http://bit.ly/1bNGcKz|Generate Small Worlds|  PERSONAL       |
 | Turf| http://bit.ly/1Ijbd2O| Geo-spatial Analysis|   MIT      |
-| OsmBuildings |http://osmbuildings.org |      |         |
+| OsmBuildings |http://osmbuildings.org |   OSM Buildings   |         |
 | Open Layers 3            |      |      |         |
 | Karto Graph              |      |      |         |
 | Mapsicon                 |      |      |         |
