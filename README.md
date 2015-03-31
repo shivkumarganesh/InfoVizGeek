@@ -75,7 +75,7 @@ Its always better to divide JavaScript or any other library with tons of options
 | Chartist      | http://bit.ly/1xSrFao|   Responsive Charts   |   Do Whatever      |
 | ChartJS       |http://bit.ly/1EY68tT|Clean & Engaging Charts|  PERSONAL |
 | Ember Charts  | http://bit.ly/1C14qG7|EmberJS & D3 Lib| Apache License     |
-| Rahpael       |  http://bit.ly/1IhMcVY    |      |   MIT      |
+| Rahpael       |  http://bit.ly/1IhMcVY    |  Vector Drawing    |   MIT      |
 | Sparky        |      |      |         |
 | PolyJS        |      |      |         |
 | JQPlot        |      |      |         |
