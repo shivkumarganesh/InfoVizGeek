@@ -107,7 +107,7 @@ Its always better to divide JavaScript or any other library with tons of options
 | Framework/SDK   | Link | Type |   |
 |-----------------|------|------|---|
 | NVD3| http://nvd3.org |D3 based reusable Charting Lib   | Apache License V2  |
-| C3| http://c3js.org|   D3 based reusable Charting Lib    |   |
+| C3| http://c3js.org|   D3 based reusable Charting Lib    | MIT  |
 | DimpleJS        |      |      |   |
 | DC              |      |      |   |
 | D3Xter          |      |      |   |
