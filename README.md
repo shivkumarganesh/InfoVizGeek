@@ -18,7 +18,7 @@ According to my research and understanding till now, I would go ahead and set up
  8. Infographics
  9. Multiple
  10. Physical
- 11. 
+
 ###Tools & Frameworks
 We can broadly divide this entire thing into two parts. 
 
