@@ -84,9 +84,8 @@ Its always better to divide JavaScript or any other library with tons of options
 | Framework/SDK            | Link | Type | License |
 |--------------------------|------|------|---------|
 | Leaflet | http://bit.ly/1CIDxvu| Interactive Map     |   PERSONAL      |
-| TopoJSON|http://bit.ly/1EZpBuj| GeoJSON that encodes topology     |  PERSONAL       |
-| Leaflet TopoJSON Support |      |      |         |
-| Leaflet Plugins          |      |      |         |
+| TopoJSON|http://bit.ly/1EZpBuj| GeoJSON that encodes topology|PERSONAL|
+| Leaflet Plugins|  http://bit.ly/1BIVkho    |      |         |
 | Leaflet Generator        |      |      |         |
 | Planetary                |      |      |         |
 | Smallworld               |      |      |         |
