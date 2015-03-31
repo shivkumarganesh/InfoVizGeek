@@ -109,7 +109,7 @@ Its always better to divide JavaScript or any other library with tons of options
 | NVD3| http://nvd3.org |D3 based reusable Charting Lib   | Apache License V2  |
 | C3| http://c3js.org|   D3 based reusable Charting Lib    | MIT  |
 | DimpleJS| http://dimplejs.org| D3 based reusable Charting Lib     | MIT  |
-| DC| http://bit.ly/1NAI4lm| Dimensional Charting(Based on CrossFilter)     | Apache License V2  |
+| DC| http://bit.ly/1NAI4lm| Dimensional Charting(Based on [CrossFilter](#other-useful-javascript-components))     | Apache License V2  |
 | D3Xter| http://bit.ly/1xU2m7P    | D3 based reusable Charting Lib  | MIT  |
 | MetricsGraphics |http://metricsgraphicsjs.org|OPtimized Viz for Time Series Data      |Mozilla Public License V2   |
 | Epoch|http://bit.ly/1G44VH6 |Realtime Viz Lib      | MIT  |
@@ -122,8 +122,7 @@ Its always better to divide JavaScript or any other library with tons of options
 | D3JS | http://d3js.org|Data Driven Documents,uses SVG for Viz|PERSONAL|
 | ProcessingJS| http://processingjs.org|Port to Processing Language for Viz, Design & Interactive Content      |  MIT       |
 | PaperJS|http://paperjs.org| Vector Graphics Scripting     |  PERSONAL       |
-| CrossFilter|http://bit.ly/19yOdl1|Library for Dimensional Filtering      | Apache License V2        |
-| Jquery/Jquery Plugins |      |      |         |
+| CrossFilter|http://bit.ly/19yOdl1|Library for Dimensional Filtering      | Apache License V2 |
 
 ####Java
 | Framework/SDK | Link | Type | Platform | License |
