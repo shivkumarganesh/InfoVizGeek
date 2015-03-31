@@ -100,7 +100,8 @@ Its always better to divide JavaScript or any other library with tons of options
 #####Text Visualization
 | Framework/SDK         | Link | Type | License |
 |-----------------------|------|------|---------|
-| Tangle                |  http://bit.ly/1Dnsjie    | Reactive Documents     |  MIT       |
+| Tangle  |  http://bit.ly/1Dnsjie    | Reactive Documents     |  MIT       |
+|jqCloud|http://bit.ly/1NESz9c|||
 
 #####D3 Based Libraries
 | Framework/SDK   | Link | Type |   |
