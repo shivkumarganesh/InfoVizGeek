@@ -79,8 +79,7 @@ Its always better to divide JavaScript or any other library with tons of options
 | Sparky        |   http://bit.ly/19EwDfc   |  Line Chart Lib | Unknown        |
 | PolyJS|http://bit.ly/1Dnbp3x|Interactive Charts|CC Non Commercial      |
 | JQPlot        |  http://bit.ly/19wmSQw    | Plotting & Charting     |   MIT      |
-| FFChart Well  |      |      |         |
-|               |      |      |         |
+| FFChart Well  |http://bit.ly/1CHiUjq      | TypeFace for Graphs     |  Unknown    |
 #####Maps
 | Framework/SDK            | Link | Type | License |
 |--------------------------|------|------|---------|
