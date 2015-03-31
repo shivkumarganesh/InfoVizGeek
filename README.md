@@ -73,8 +73,8 @@ Its always better to divide JavaScript or any other library with tons of options
 | TimesheetJS   |  http://bit.ly/1xSqRCv    | Data & Event Viz    |   MIT      |
 | JSPlumb       |http://bit.ly/1I01GRA| Connections & Flow|   MIT & GPLv2      |
 | Chartist      | http://bit.ly/1xSrFao|   Responsive Charts   |   Do Whatever      |
-| ChartJS       |http://bit.ly/1EY68tT|Clean & Engaging Charts|  PERSONAL       |
-| Ember Charts  | http://bit.ly/1C14qG7     |      |         |
+| ChartJS       |http://bit.ly/1EY68tT|Clean & Engaging Charts|  PERSONAL |
+| Ember Charts  | http://bit.ly/1C14qG7     |      |    Apache License     |
 | Rahpael       |      |      |         |
 | Sparky        |      |      |         |
 | PolyJS        |      |      |         |
