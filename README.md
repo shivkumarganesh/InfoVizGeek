@@ -86,7 +86,7 @@ Its always better to divide JavaScript or any other library with tons of options
 | Leaflet | http://bit.ly/1CIDxvu| Interactive Map     |   PERSONAL      |
 | TopoJSON|http://bit.ly/1EZpBuj| GeoJSON that encodes topology|PERSONAL|
 | Leaflet Plugins|  http://bit.ly/1BIVkho    |  Plugins for Leaflet|  PERSONAL|
-| Leaflet Generator        |      |      |         |
+| Leaflet Generator| http://bit.ly/1HhAYjV|  Yoeman Generator    |  -       |
 | Planetary                |      |      |         |
 | Smallworld               |      |      |         |
 | Turf                     |      |      |         |
