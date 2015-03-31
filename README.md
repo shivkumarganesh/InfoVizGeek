@@ -93,7 +93,7 @@ Its always better to divide JavaScript or any other library with tons of options
 | OsmBuildings |http://osmbuildings.org |   OSM Buildings   | PERSONAL|
 | Open Layers 3|http://openlayers.org|High Performance for Mapping needs|PERSONAL         |
 | Karto Graph|http://kartograph.org|  Interactive Vector Maps    |  LGPL       |
-| Mapsicon                 |http://bit.ly/1G41aBx      |      |         |
+| Mapsicon                 |http://bit.ly/1G41aBx      |Maps of All Countries|         |
 | Cesium                   |      |      |         |
 |                          |      |      |         |
 #####Text Visualization
