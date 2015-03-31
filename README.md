@@ -91,7 +91,7 @@ Its always better to divide JavaScript or any other library with tons of options
 | Smallworld| http://bit.ly/1bNGcKz|Generate Small Worlds|  PERSONAL       |
 | Turf| http://bit.ly/1Ijbd2O| Geo-spatial Analysis|   MIT      |
 | OsmBuildings |http://osmbuildings.org |   OSM Buildings   | PERSONAL|
-| Open Layers 3|http://openlayers.org|High Performance for Mapping      |         |
+| Open Layers 3|http://openlayers.org|High Performance for Mapping needs|PERSONAL         |
 | Karto Graph              |      |      |         |
 | Mapsicon                 |      |      |         |
 | Cesium                   |      |      |         |
