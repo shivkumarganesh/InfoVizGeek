@@ -101,7 +101,7 @@ Its always better to divide JavaScript or any other library with tons of options
 | Framework/SDK         | Link | Type | License |
 |-----------------------|------|------|---------|
 | Tangle  |  http://bit.ly/1Dnsjie    | Reactive Documents     |  MIT       |
-|jqCloud|http://bit.ly/1NESz9c|||
+|jqCloud|http://bit.ly/1NESz9c||PERSONAL|
 
 #####D3 Based Libraries
 | Framework/SDK   | Link | Type |   |
