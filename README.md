@@ -118,7 +118,7 @@ Its always better to divide JavaScript or any other library with tons of options
 | Framework/SDK         | Link | Type | License |
 |-----------------------|------|------|---------|
 | ThreeJS|http://threejs.org|WebGL Lib      |  MIT       |
-| D3JS                  |      |      |         |
+| D3JS | http://d3js.org     |      |         |
 | ProcessingJS          |      |      |         |
 | PaperJS               |      |      |         |
 | CrossFilter           |      |      |         |
