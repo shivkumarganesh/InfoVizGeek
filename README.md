@@ -136,13 +136,17 @@ Its always better to divide JavaScript or any other library with tons of options
 | JFree | http://bit.ly/1bwz7ho | Plotting Software | Cross-platform | LGPL |
 | Jung | http://bit.ly/1BNIiic | graph clustering | Cross-platform | BSDlicense |
 
+____________________________________________________________________
+
 ####Flash
 | Framework/SDK         | Link | Type | License |
 |-----------------------|------|------|---------|
+
+_____________________________________________________________________
 ####Processing
 | Framework/SDK         | Link | Type | License |
 |-----------------------|------|------|---------|
-
+_____________________________________________________________________
 ####Python
 | Framework/SDK | Link | Type | License |
 |---------------|----------------------------|---------------------------|----------|
@@ -158,10 +162,12 @@ Its always better to divide JavaScript or any other library with tons of options
 | PyGal |  |  |  |
 | Plotly |  |  |  |
 | MayaAVI |  |  |  |
-
+_________________________________________________________________________
 ####Ruby
 | Framework/SDK         | Link | Type | License |
 |-----------------------|------|------|---------|
+__________________________________________________
 ####R
 | Framework/SDK         | Link | Type | License |
 |-----------------------|------|------|---------|
+_________________________________________________
