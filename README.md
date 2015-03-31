@@ -133,9 +133,11 @@ Its always better to divide JavaScript or any other library with tons of options
 | Jung | http://bit.ly/1BNIiic | graph clustering | Cross-platform | BSDlicense |
 
 ####Flash
-
+| Framework/SDK         | Link | Type | License |
+|-----------------------|------|------|---------|
 ####Processing
-
+| Framework/SDK         | Link | Type | License |
+|-----------------------|------|------|---------|
 
 ####Python
 | Framework/SDK | Link | Type | License |
@@ -154,5 +156,8 @@ Its always better to divide JavaScript or any other library with tons of options
 | MayaAVI |  |  |  |
 
 ####Ruby
-
+| Framework/SDK         | Link | Type | License |
+|-----------------------|------|------|---------|
 ####R
+| Framework/SDK         | Link | Type | License |
+|-----------------------|------|------|---------|
