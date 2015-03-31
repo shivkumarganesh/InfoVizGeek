@@ -88,7 +88,7 @@ Its always better to divide JavaScript or any other library with tons of options
 | Leaflet Plugins|  http://bit.ly/1BIVkho    |  Plugins for Leaflet|  PERSONAL|
 | Leaflet Generator| http://bit.ly/1HhAYjV|  Yoeman Generator    |  -       |
 | Planetary |http://bit.ly/1FeyrqL| Interactive Globes     |    PERSONAL     |
-| Smallworld               |      |      |         |
+| Smallworld| http://bit.ly/1bNGcKz     |      |         |
 | Turf                     |      |      |         |
 | OsmBuildings             |      |      |         |
 | Open Layers 3            |      |      |         |
