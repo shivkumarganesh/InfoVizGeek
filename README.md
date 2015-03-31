@@ -100,7 +100,7 @@ Its always better to divide JavaScript or any other library with tons of options
 #####Text Visualization
 | Framework/SDK         | Link | Type | License |
 |-----------------------|------|------|---------|
-| Tangle                |      |      |         |
+| Tangle                |  http://bit.ly/1Dnsjie    |      |         |
 
 #####D3 Based Libraries
 | Framework/SDK   | Link | Type |   |
