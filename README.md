@@ -68,7 +68,7 @@ Its always better to divide JavaScript or any other library with tons of options
 #####Charting Libraries
 | Framework/SDK | Link | Type | License |
 |---------------|------|------|---------|
-| TauCharts     |http://bit.ly/1Nytafs      |      |         |
+| TauCharts     |http://bit.ly/1Nytafs|Charting Library|Apache License    |
 | VisJS         |      |      |         |
 | TimesheetJS   |      |      |         |
 | JSPlumb       |      |      |         |
