@@ -72,7 +72,7 @@ Its always better to divide JavaScript or any other library with tons of options
 | VisJS         |   http://bit.ly/1OUagmW   |   In Browser Viz   |  MIT       |
 | TimesheetJS   |  http://bit.ly/1xSqRCv    | Data & Event Viz    |   MIT      |
 | JSPlumb       |http://bit.ly/1I01GRA| Connections & Flow|   MIT & GPLv2      |
-| Chartist      | http://bit.ly/1xSrFao|   Responsive Charts   |         |
+| Chartist      | http://bit.ly/1xSrFao|   Responsive Charts   |   Do Whatever      |
 | ChartJS       |      |      |         |
 | Ember Charts  |      |      |         |
 | Rahpael       |      |      |         |
