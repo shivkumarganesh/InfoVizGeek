@@ -112,7 +112,7 @@ Its always better to divide JavaScript or any other library with tons of options
 | DC| http://bit.ly/1NAI4lm| Dimensional Charting     | Apache License V2  |
 | D3Xter| http://bit.ly/1xU2m7P    | D3 based reusable Charting Lib  | MIT  |
 | MetricsGraphics |http://metricsgraphicsjs.org|OPtimized Viz for Time Series Data      |Mozilla Public License V2   |
-| Epoch           |      |      |   |
+| Epoch|http://bit.ly/1G44VH6 |Realtime Viz Lib      | MIT  |
 | Sparkline       |      |      |   |
 #####Other Useful JavaScript Components
 | Framework/SDK         | Link | Type | License |
