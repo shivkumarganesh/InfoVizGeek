@@ -114,6 +114,7 @@ Its always better to divide JavaScript or any other library with tons of options
 | MetricsGraphics |http://metricsgraphicsjs.org|OPtimized Viz for Time Series Data      |Mozilla Public License V2   |
 | Epoch|http://bit.ly/1G44VH6 |Realtime Viz Lib      | MIT  |
 | Sparkline|http://bit.ly/1IjkB6P|Small Line Chart without Axis|New BSD   |
+
 #####Other Useful JavaScript Components
 | Framework/SDK         | Link | Type | License |
 |-----------------------|------|------|---------|
@@ -121,7 +122,7 @@ Its always better to divide JavaScript or any other library with tons of options
 | D3JS | http://d3js.org|Data Driven Documents,uses SVG for Viz|PERSONAL|
 | ProcessingJS| http://processingjs.org|Port to Processing Language for Viz, Design & Interactive Content      |  MIT       |
 | PaperJS|http://paperjs.org| Vector Graphics Scripting     |  PERSONAL       |
-| CrossFilter           |      |      |         |
+| CrossFilter|http://bit.ly/19yOdl1|Library for Dimensional Filtering      | Apache License V2        |
 | Jquery/Jquery Plugins |      |      |         |
 
 ####Java
