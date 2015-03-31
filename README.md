@@ -106,7 +106,7 @@ Its always better to divide JavaScript or any other library with tons of options
 #####D3 Based Libraries
 | Framework/SDK   | Link | Type |   |
 |-----------------|------|------|---|
-| NVD3            |      |      |   |
+| NVD3            |      |      | Apache License V2  |
 | C3              |      |      |   |
 | DimpleJS        |      |      |   |
 | DC              |      |      |   |
