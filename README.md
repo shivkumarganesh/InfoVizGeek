@@ -95,7 +95,7 @@ Its always better to divide JavaScript or any other library with tons of options
 | Karto Graph|http://kartograph.org|  Interactive Vector Maps    |  LGPL       |
 | Mapsicon|http://bit.ly/1G41aBx      |Maps of All Countries|    -     |
 | Cesium                   | http://cesiumjs.org/     |      |         |
-|                          |      |      |         |
+
 #####Text Visualization
 | Framework/SDK         | Link | Type | License |
 |-----------------------|------|------|---------|
