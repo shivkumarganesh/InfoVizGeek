@@ -18,6 +18,7 @@ According to my research and understanding till now, I would go ahead and set up
  8. Infographics
  9. Multiple
  10. Physical
+![enter image description here](https://github.com/shivkumarganesh/InfoVizGeek/blob/master/ToolMap.png)
 
 ###Tools & Frameworks
 We can broadly divide this entire thing into two parts. 
