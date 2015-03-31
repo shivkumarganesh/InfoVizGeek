@@ -70,7 +70,7 @@ Its always better to divide JavaScript or any other library with tons of options
 |---------------|------|------|---------|
 | TauCharts     |http://bit.ly/1Nytafs|Charting Library|Apache License    |
 | VisJS         |   http://bit.ly/1OUagmW   |   In Browser Viz   |  MIT       |
-| TimesheetJS   |      |      |         |
+| TimesheetJS   |  http://bit.ly/1xSqRCv    | Data & Event Viz    |   MIT      |
 | JSPlumb       |      |      |         |
 | Chartist      |      |      |         |
 | ChartJS       |      |      |         |
