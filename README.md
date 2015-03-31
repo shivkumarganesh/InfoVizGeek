@@ -117,7 +117,7 @@ Its always better to divide JavaScript or any other library with tons of options
 #####Other Useful JavaScript Components
 | Framework/SDK         | Link | Type | License |
 |-----------------------|------|------|---------|
-| ThreeJS|http://threejs.org|      |         |
+| ThreeJS|http://threejs.org|      |  MIT       |
 | D3JS                  |      |      |         |
 | ProcessingJS          |      |      |         |
 | PaperJS               |      |      |         |
