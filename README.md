@@ -77,7 +77,7 @@ Its always better to divide JavaScript or any other library with tons of options
 | Ember Charts  | http://bit.ly/1C14qG7|EmberJS & D3 Lib| Apache License     |
 | Rahpael       |  http://bit.ly/1IhMcVY    |  Vector Drawing    |   MIT      |
 | Sparky        |   http://bit.ly/19EwDfc   |  Line Chart Lib | Unknown        |
-| PolyJS        |   http://bit.ly/1Dnbp3x   |      |   CC Non Commercial      |
+| PolyJS        |   http://bit.ly/1Dnbp3x   |  Interactive Charts    |   CC Non Commercial      |
 | JQPlot        |      |      |         |
 | FFChart Well  |      |      |         |
 |               |      |      |         |
