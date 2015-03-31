@@ -110,7 +110,7 @@ Its always better to divide JavaScript or any other library with tons of options
 | C3| http://c3js.org|   D3 based reusable Charting Lib    | MIT  |
 | DimpleJS| http://dimplejs.org| D3 based reusable Charting Lib     | MIT  |
 | DC| http://bit.ly/1NAI4lm| Dimensional Charting     | Apache License V2  |
-| D3Xter| http://bit.ly/1xU2m7P    | D3 based reusable Charting Lib      |   |
+| D3Xter| http://bit.ly/1xU2m7P    | D3 based reusable Charting Lib  | MIT  |
 | MetricsGraphics |      |      |   |
 | Epoch           |      |      |   |
 | Sparkline       |      |      |   |
