@@ -71,7 +71,7 @@ Its always better to divide JavaScript or any other library with tons of options
 | TauCharts     |http://bit.ly/1Nytafs|Charting Library|Apache License    |
 | VisJS         |   http://bit.ly/1OUagmW   |   In Browser Viz   |  MIT       |
 | TimesheetJS   |  http://bit.ly/1xSqRCv    | Data & Event Viz    |   MIT      |
-| JSPlumb       |  http://bit.ly/1I01GRA    |      |         |
+| JSPlumb       |http://bit.ly/1I01GRA| Connections & Flow|       |
 | Chartist      |      |      |         |
 | ChartJS       |      |      |         |
 | Ember Charts  |      |      |         |
