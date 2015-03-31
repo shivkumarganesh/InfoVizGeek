@@ -1,5 +1,6 @@
 InfoViz Geek 
 ==========
+![Made By Information Visualization Geeks](https://raw.githubusercontent.com/shivkumarganesh/InfoVizGeek/master/Webchemy.png)
 
 ###Introduction
 InfoVizGeek is a project which talks about the different tools and technologies which would enable an individual to create data visualizations. This repo has a vast list of tools along with their licensing available. This is an exhaustive list and I would be glad to accept additional tools which you guys out there in community use.
@@ -99,28 +100,29 @@ Its always better to divide JavaScript or any other library with tons of options
 #####Text Visualization
 | Framework/SDK         | Link | Type | License |
 |-----------------------|------|------|---------|
-| Tangle                |      |      |         |
+| Tangle  |  http://bit.ly/1Dnsjie    | Reactive Documents     |  MIT       |
+|jqCloud|http://bit.ly/1NESz9c|Tag Cloud|PERSONAL|
 
 #####D3 Based Libraries
 | Framework/SDK   | Link | Type |   |
 |-----------------|------|------|---|
-| NVD3            |      |      |   |
-| C3              |      |      |   |
-| DimpleJS        |      |      |   |
-| DC              |      |      |   |
-| D3Xter          |      |      |   |
-| MetricsGraphics |      |      |   |
-| Epoch           |      |      |   |
-| Sparkline       |      |      |   |
+| NVD3| http://nvd3.org |D3 based reusable Charting Lib   | Apache License V2  |
+| C3| http://c3js.org|   D3 based reusable Charting Lib    | MIT  |
+| DimpleJS| http://dimplejs.org| D3 based reusable Charting Lib     | MIT  |
+| DC| http://bit.ly/1NAI4lm| Dimensional Charting(Based on [CrossFilter](#other-useful-javascript-components))     | Apache License V2  |
+| D3Xter| http://bit.ly/1xU2m7P    | D3 based reusable Charting Lib  | MIT  |
+| MetricsGraphics |http://metricsgraphicsjs.org|OPtimized Viz for Time Series Data      |Mozilla Public License V2   |
+| Epoch|http://bit.ly/1G44VH6 |Realtime Viz Lib      | MIT  |
+| Sparkline|http://bit.ly/1IjkB6P|Small Line Chart without Axis|New BSD   |
+
 #####Other Useful JavaScript Components
 | Framework/SDK         | Link | Type | License |
 |-----------------------|------|------|---------|
-| ThreeJS               |      |      |         |
-| D3JS                  |      |      |         |
-| ProcessingJS          |      |      |         |
-| PaperJS               |      |      |         |
-| CrossFilter           |      |      |         |
-| Jquery/Jquery Plugins |      |      |         |
+| ThreeJS|http://threejs.org|WebGL Lib      |  MIT       |
+| D3JS | http://d3js.org|Data Driven Documents,uses SVG for Viz|PERSONAL|
+| ProcessingJS| http://processingjs.org|Port to Processing Language for Viz, Design & Interactive Content      |  MIT       |
+| PaperJS|http://paperjs.org| Vector Graphics Scripting     |  PERSONAL       |
+| CrossFilter|http://bit.ly/19yOdl1|Library for Dimensional Filtering      | Apache License V2 |
 
 ####Java
 | Framework/SDK | Link | Type | Platform | License |
@@ -131,9 +133,11 @@ Its always better to divide JavaScript or any other library with tons of options
 | Jung | http://bit.ly/1BNIiic | graph clustering | Cross-platform | BSDlicense |
 
 ####Flash
-
+| Framework/SDK         | Link | Type | License |
+|-----------------------|------|------|---------|
 ####Processing
-
+| Framework/SDK         | Link | Type | License |
+|-----------------------|------|------|---------|
 
 ####Python
 | Framework/SDK | Link | Type | License |
@@ -152,5 +156,8 @@ Its always better to divide JavaScript or any other library with tons of options
 | MayaAVI |  |  |  |
 
 ####Ruby
-
+| Framework/SDK         | Link | Type | License |
+|-----------------------|------|------|---------|
 ####R
+| Framework/SDK         | Link | Type | License |
+|-----------------------|------|------|---------|
