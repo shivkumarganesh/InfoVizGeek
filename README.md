@@ -83,7 +83,7 @@ Its always better to divide JavaScript or any other library with tons of options
 #####Maps
 | Framework/SDK            | Link | Type | License |
 |--------------------------|------|------|---------|
-| Leaflet | http://bit.ly/1CIDxvu| Interactive Map     |         |
+| Leaflet | http://bit.ly/1CIDxvu| Interactive Map     |   PERSONAL      |
 | TopoJSON                 |      |      |         |
 | Leaflet TopoJSON Support |      |      |         |
 | Leaflet Plugins          |      |      |         |
