@@ -160,7 +160,7 @@ _____________________________________________________________________
 | PyGraphViz |http://bit.ly/1G4IuS0|GraphViz & Viz Lib | BSD |
 | Pandas |http://pandas.pydata.org|High Performance Data Structure & Analysis tool  | BSD |
 | PyGal |http://pygal.org  |Python svg Graph plotting Library|GNU Lesser GPL  |
-| Plotly |  |Online Data Visualization  |PRIVATE  |
+| Plotly |https://plot.ly  |Online Data Visualization  |PRIVATE  |
 | MayaAVI |  |  |  |
 _________________________________________________________________________
 ####Ruby
