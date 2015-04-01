@@ -122,7 +122,7 @@ Its always better to divide JavaScript or any other library with tons of options
 #####Flowchart Libraries
 | Framework/SDK | Link | Type | License |
 |---------------|------|------|---------|
-||http://bit.ly/1G5yd8a|||
+|Flowchart.js|http://bit.ly/1G5yd8a|||
 #####Other Useful JavaScript Components
 | Framework/SDK         | Link | Type | License |
 |-----------------------|------|------|---------|
