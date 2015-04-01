@@ -158,7 +158,7 @@ _____________________________________________________________________
 | ggPlot | http://bit.ly/1Gsz1my | Plots | PERSONAL |
 | NetworkX | http://bit.ly/1ycAuX7 | Complex Networks |  |
 | PyGraphViz |http://bit.ly/1G4IuS0|GraphViz & Viz Lib | BSD |
-| Pandas |http://pandas.pydata.org/  |  | BSD |
+| Pandas |http://pandas.pydata.org|High Performance Data Structure & Analysis tool  | BSD |
 | PyGal |  |  |  |
 | Plotly |  |  |  |
 | MayaAVI |  |  |  |
