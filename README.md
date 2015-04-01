@@ -86,7 +86,7 @@ Its always better to divide JavaScript or any other library with tons of options
 | JQPlot        |  http://bit.ly/19wmSQw    | Plotting & Charting |   MIT      |
 | FFChart Well  |http://bit.ly/1CHiUjq      | TypeFace for Graphs|  Unknown    |
 |Flot|http://www.flotcharts.org/|||
-||http://bit.ly/1xA9CW1|||
+|JSXGraph|http://bit.ly/1xA9CW1|||
 #####Maps
 | Framework/SDK            | Link | Type | License |
 |--------------------------|------|------|---------|
