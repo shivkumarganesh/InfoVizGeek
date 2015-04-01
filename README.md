@@ -123,7 +123,7 @@ Its always better to divide JavaScript or any other library with tons of options
 | Framework/SDK | Link | Type | License |
 |---------------|------|------|---------|
 |Flowchart.js|http://bit.ly/1G5yd8a|Simple SVG Flowchart Diagram|PRIVATE|
-|JointJS|http://www.jointjs.com||Mozilla Public License V2|
+|JointJS|http://www.jointjs.com|JavaScript Diagramming Lib|Mozilla Public License V2|
 #####Other Useful JavaScript Components
 | Framework/SDK         | Link | Type | License |
 |-----------------------|------|------|---------|
