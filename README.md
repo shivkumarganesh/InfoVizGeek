@@ -77,14 +77,15 @@ Its always better to divide JavaScript or any other library with tons of options
 | VisJS         |   http://bit.ly/1OUagmW   |   In Browser Viz   |  MIT       |
 | TimesheetJS   |  http://bit.ly/1xSqRCv    | Data & Event Viz    |   MIT      |
 | JSPlumb       |http://bit.ly/1I01GRA| Connections & Flow|   MIT & GPLv2      |
-| Chartist      | http://bit.ly/1xSrFao|   Responsive Charts   |   Do Whatever      |
+| Chartist      | http://bit.ly/1xSrFao|   Responsive Charts |Do Whatever      |
 | ChartJS       |http://bit.ly/1EY68tT|Clean & Engaging Charts|  PERSONAL |
 | Ember Charts  | http://bit.ly/1C14qG7|EmberJS & D3 Lib| Apache License     |
 | Rahpael       |  http://bit.ly/1IhMcVY    |  Vector Drawing    |   MIT      |
 | Sparky        |   http://bit.ly/19EwDfc   |  Line Chart Lib | Unknown        |
 | PolyJS|http://bit.ly/1Dnbp3x|Interactive Charts|CC Non Commercial      |
-| JQPlot        |  http://bit.ly/19wmSQw    | Plotting & Charting     |   MIT      |
-| FFChart Well  |http://bit.ly/1CHiUjq      | TypeFace for Graphs     |  Unknown    |
+| JQPlot        |  http://bit.ly/19wmSQw    | Plotting & Charting |   MIT      |
+| FFChart Well  |http://bit.ly/1CHiUjq      | TypeFace for Graphs|  Unknown    |
+|Flot|http://www.flotcharts.org/|||
 #####Maps
 | Framework/SDK            | Link | Type | License |
 |--------------------------|------|------|---------|
@@ -118,7 +119,10 @@ Its always better to divide JavaScript or any other library with tons of options
 | MetricsGraphics |http://metricsgraphicsjs.org|OPtimized Viz for Time Series Data      |Mozilla Public License V2   |
 | Epoch|http://bit.ly/1G44VH6 |Realtime Viz Lib      | MIT  |
 | Sparkline|http://bit.ly/1IjkB6P|Small Line Chart without Axis|New BSD   |
-
+#####Flowchart Libraries
+| Framework/SDK | Link | Type | License |
+|---------------|------|------|---------|
+||http://bit.ly/1G5yd8a|||
 #####Other Useful JavaScript Components
 | Framework/SDK         | Link | Type | License |
 |-----------------------|------|------|---------|
