@@ -161,7 +161,7 @@ _____________________________________________________________________
 | Pandas |http://pandas.pydata.org|High Performance Data Structure & Analysis tool  | BSD |
 | PyGal |http://pygal.org  |Python svg Graph plotting Library|GNU Lesser GPL  |
 | Plotly |https://plot.ly  |Online Data Visualization  |PRIVATE  |
-| MayaAVI |  |  |  |
+
 _________________________________________________________________________
 ####Ruby
 | Framework/SDK         | Link | Type | License |
