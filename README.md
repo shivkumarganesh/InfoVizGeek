@@ -125,6 +125,7 @@ Its always better to divide JavaScript or any other library with tons of options
 | JSPlumb       |http://bit.ly/1I01GRA| Connections & Flow|   MIT & GPLv2      |
 |Flowchart.js|http://bit.ly/1G5yd8a|Simple SVG Flowchart Diagram|PRIVATE|
 |JointJS|http://www.jointjs.com|JavaScript Diagramming Lib|Mozilla Public License V2|
+|Wirelt|http://bit.ly/1G5Aj85|create full-web graph editors for dataflow applications, visual programming languages, graphical modeling, or graph editors.|MIT|
 
 #####Other Useful JavaScript Components
 | Framework/SDK         | Link | Type | License |
