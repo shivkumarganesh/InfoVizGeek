@@ -126,7 +126,7 @@ Its always better to divide JavaScript or any other library with tons of options
 |Flowchart.js|http://bit.ly/1G5yd8a|Simple SVG Flowchart Diagram|PRIVATE|
 |JointJS|http://www.jointjs.com|JavaScript Diagramming Lib|Mozilla Public License V2|
 |Wirelt|http://bit.ly/1G5Aj85|create full-web graph editors for dataflow applications, visual programming languages, graphical modeling, or graph editors.|MIT|
-|Ambor.js|http://arborjs.org|A graph visualization library using web workers and jQuery||
+|Ambor.js|http://arborjs.org|A graph visualization library using web workers and jQuery|MIT|
 
 #####Other Useful JavaScript Components
 | Framework/SDK         | Link | Type | License |
