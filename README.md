@@ -76,7 +76,6 @@ Its always better to divide JavaScript or any other library with tons of options
 | TauCharts     |http://bit.ly/1Nytafs|Charting Library|Apache License    |
 | VisJS         |   http://bit.ly/1OUagmW   |   In Browser Viz   |  MIT       |
 | TimesheetJS   |  http://bit.ly/1xSqRCv    | Data & Event Viz    |   MIT      |
-| JSPlumb       |http://bit.ly/1I01GRA| Connections & Flow|   MIT & GPLv2      |
 | Chartist      | http://bit.ly/1xSrFao|   Responsive Charts |Do Whatever      |
 | ChartJS       |http://bit.ly/1EY68tT|Clean & Engaging Charts|  PERSONAL |
 | Ember Charts  | http://bit.ly/1C14qG7|EmberJS & D3 Lib| Apache License     |
@@ -123,6 +122,7 @@ Its always better to divide JavaScript or any other library with tons of options
 #####Flowchart Libraries
 | Framework/SDK | Link | Type | License |
 |---------------|------|------|---------|
+| JSPlumb       |http://bit.ly/1I01GRA| Connections & Flow|   MIT & GPLv2      |
 |Flowchart.js|http://bit.ly/1G5yd8a|Simple SVG Flowchart Diagram|PRIVATE|
 |JointJS|http://www.jointjs.com|JavaScript Diagramming Lib|Mozilla Public License V2|
 
