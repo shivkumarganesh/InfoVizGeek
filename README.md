@@ -125,7 +125,7 @@ Its always better to divide JavaScript or any other library with tons of options
 |---------------|------|------|---------|
 |Flowchart.js|http://bit.ly/1G5yd8a|Simple SVG Flowchart Diagram|PRIVATE|
 |JointJS|http://www.jointjs.com|JavaScript Diagramming Lib|Mozilla Public License V2|
-|yUML.ME|http://yuml.me|Funky looking UML & Diagrams||
+
 #####Other Useful JavaScript Components
 | Framework/SDK         | Link | Type | License |
 |-----------------------|------|------|---------|
