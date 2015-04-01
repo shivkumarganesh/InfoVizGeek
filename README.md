@@ -69,6 +69,7 @@ Its always better to divide JavaScript or any other library with tons of options
  - [Text Visualization](#text-visualization)
  - [D3 Based Libraries](#d3-based-libraries)
  - [Other useful JavaScript Components](#other-useful-javascript-components)
+ - [Flowchart Libraries](#flowchart-libraries)
 
 #####Charting Libraries
 | Framework/SDK | Link | Type | License |
