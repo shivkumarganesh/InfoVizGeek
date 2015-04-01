@@ -159,7 +159,7 @@ _____________________________________________________________________
 | NetworkX | http://bit.ly/1ycAuX7 | Complex Networks |  |
 | PyGraphViz |http://bit.ly/1G4IuS0|GraphViz & Viz Lib | BSD |
 | Pandas |http://pandas.pydata.org|High Performance Data Structure & Analysis tool  | BSD |
-| PyGal |http://pygal.org  |  |  |
+| PyGal |http://pygal.org  |  |GNU Lesser GPL  |
 | Plotly |  |  |  |
 | MayaAVI |  |  |  |
 _________________________________________________________________________
