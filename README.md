@@ -157,7 +157,7 @@ _____________________________________________________________________
 | Python IGraph | http://bit.ly/1NiYi2x | Graph/Plots | GPL |
 | ggPlot | http://bit.ly/1Gsz1my | Plots | PERSONAL |
 | NetworkX | http://bit.ly/1ycAuX7 | Complex Networks |  |
-| PyGraphViz |  |  |  |
+| PyGraphViz |  | GraphViz & Viz Lib |  |
 | Pandas |  |  |  |
 | PyGal |  |  |  |
 | Plotly |  |  |  |
