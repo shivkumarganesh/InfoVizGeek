@@ -89,6 +89,7 @@ Its always better to divide JavaScript or any other library with tons of options
 |Flot|http://www.flotcharts.org|JavaScript Charts for Jquery|PRIVATE|
 |JSXGraph|http://bit.ly/1xA9CW1|Dynamic Mathematics Viz Lib|MIT/GNU|
 |Piety|http://bit.ly/1FlK4Mz|Progressive SVG -> pie,donut,bar & line chart|MIT|
+|Chroma.js|http://bit.ly/1BTZRhV|JavaScript library for all kinds of color manipulations|BSD|
 #####Maps
 | Framework/SDK            | Link | Type | License |
 |--------------------------|------|------|---------|
