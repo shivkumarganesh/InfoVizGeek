@@ -88,6 +88,7 @@ Its always better to divide JavaScript or any other library with tons of options
 | FFChart Well  |http://bit.ly/1CHiUjq      | TypeFace for Graphs|  Unknown    |
 |Flot|http://www.flotcharts.org|JavaScript Charts for Jquery|PRIVATE|
 |JSXGraph|http://bit.ly/1xA9CW1|Dynamic Mathematics Viz Lib|MIT/GNU|
+||http://bit.ly/1FlK4Mz|||
 #####Maps
 | Framework/SDK            | Link | Type | License |
 |--------------------------|------|------|---------|
