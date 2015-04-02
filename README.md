@@ -136,7 +136,7 @@ Its always better to divide JavaScript or any other library with tons of options
 |-----------------------|------|------|---------|
 | ThreeJS|http://threejs.org|WebGL Lib      |  MIT       |
 | D3JS | http://d3js.org|Data Driven Documents,uses SVG for Viz|PERSONAL|
-||http://bit.ly/1BPIEW3|||
+||http://bit.ly/1BPIEW3|Apache 2||
 | ProcessingJS| http://processingjs.org|Port to Processing Language for Viz, Design & Interactive Content      |  MIT       |
 | PaperJS|http://paperjs.org| Vector Graphics Scripting     |  PERSONAL       |
 | CrossFilter|http://bit.ly/19yOdl1|Library for Dimensional Filtering      | Apache License V2 |
