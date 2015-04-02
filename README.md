@@ -1,186 +1,263 @@
-InfoViz Geek 
-==========
-![Made By Information Visualization Geeks](https://raw.githubusercontent.com/shivkumarganesh/InfoVizGeek/master/Webchemy.png)
-
-###Introduction
-InfoVizGeek is a project which talks about the different tools and technologies which would enable an individual to create data visualizations. This repo has a vast list of tools along with their licensing available. This is an exhaustive list and I would be glad to accept additional tools which you guys out there in community use.
-
-###Visualization Classification
-According to my research and understanding till now, I would go ahead and set up a classification of all the visualizations. The visualizations can be broadly classified  as follows:-
-
- 1. Charts
- 2. Maps
- 3. Time Series
- 4. Flow
- 5. Matrix
- 6. Network
- 7. Hierarchy
- 8. Infographics
- 9. Multiple
- 10. Physical
-
-###Tools & Frameworks
-We can broadly divide this entire thing into two parts. 
-
- 1. Talking about Tools that facilitate Visualizations
- 2. Frameworks that enable an Individual with the language he/she is comfortable in. 
-
-###Tools
- 1. [TileMill](https://www.mapbox.com/tilemill/)
- 2. [Spss](http://www-01.ibm.com/software/in/analytics/spss/)
- 3. [Matlab](http://in.mathworks.com/products/matlab/)
- 4. [Tableau](http://www.tableau.com/)
- 5. [AdobeCS](https://www.adobe.com/products/cs6.html)
- 6. [Mathematica](http://www.wolfram.com/mathematica/)
- 7. [Qlik Sense](http://www.qlik.com/us)
- 8. [NodeBox](https://www.nodebox.net/)
- 9. [Watson-Analytics](http://www.ibm.com/analytics/watson-analytics/)
- 10. [Instant Atlas](http://www.instantatlas.com/)
- 11. [Weka](http://www.cs.waikato.ac.nz/ml/weka/)
- 12. [yWorks](https://www.yworks.com/)
- 13. [SAS Visual Analytics](http://www.sas.com/en_us/software/business-intelligence/visual-analytics.html)
- 14. [Visua.ly](http://visual.ly/)
- 15. [CartoDB](http://cartodb.com/)
-
-###Frameworks based on Programming Languages
- 1. [C](#c)
- 2. [JavaScript](#javascript)
- 3. [Java](#java)
- 4. [Flash](#flash)
- 5. [Processing](#processing)
- 6. [Python](#python)
- 7. [Ruby](#ruby)
- 8. [R](#r)
- 
-####C
-| SN0. 	| Framework/SDK 	| Link                  	| License                	|
-|------	|---------------	|-----------------------	|------------------------	|
-| 1    	| GraphViz      	| http://bit.ly/19mQ0Jr 	| Eclipse Public License 	|
+Welcome to StackEdit!
+===================
 
 
-_______
+Hey! I'm your first Markdown document in **StackEdit**[^stackedit]. Don't delete me, I'm very helpful! I can be recovered anyway in the **Utils** tab of the <i class="icon-cog"></i> **Settings** dialog.
+
+----------
 
 
-####JavaScript
-Its always better to divide JavaScript or any other library with tons of options into subsequent subdivisions.
+Documents
+-------------
 
- - [Charting Libraries](#charting-libraries)
- - [Maps](#maps)
- - [Text Visualization](#text-visualization)
- - [D3 Based Libraries](#d3-based-libraries)
- - [Flowchart Libraries](#flowchart-libraries)
- - [Other useful JavaScript Components](#other-useful-javascript-components)
+StackEdit stores your documents in your browser, which means all your documents are automatically saved locally and are accessible **offline!**
+
+> **Note:**
+
+> - StackEdit is accessible offline after the application has been loaded for the first time.
+> - Your local documents are not shared between different browsers or computers.
+> - Clearing your browser's data may **delete all your local documents!** Make sure your documents are synchronized with **Google Drive** or **Dropbox** (check out the [<i class="icon-refresh"></i> Synchronization](#synchronization) section).
+
+#### <i class="icon-file"></i> Create a document
+
+The document panel is accessible using the <i class="icon-folder-open"></i> button in the navigation bar. You can create a new document by clicking <i class="icon-file"></i> **New document** in the document panel.
+
+#### <i class="icon-folder-open"></i> Switch to another document
+
+All your local documents are listed in the document panel. You can switch from one to another by clicking a document in the list or you can toggle documents using <kbd>Ctrl+[</kbd> and <kbd>Ctrl+]</kbd>.
+
+#### <i class="icon-pencil"></i> Rename a document
+
+You can rename the current document by clicking the document title in the navigation bar.
+
+#### <i class="icon-trash"></i> Delete a document
+
+You can delete the current document by clicking <i class="icon-trash"></i> **Delete document** in the document panel.
+
+#### <i class="icon-hdd"></i> Export a document
+
+You can save the current document to a file by clicking <i class="icon-hdd"></i> **Export to disk** from the <i class="icon-provider-stackedit"></i> menu panel.
+
+> **Tip:** Check out the [<i class="icon-upload"></i> Publish a document](#publish-a-document) section for a description of the different output formats.
 
 
-#####Charting Libraries
-| Framework/SDK | Link | Type | License |
-|---------------|------|------|---------|
-| TauCharts     |http://bit.ly/1Nytafs|Charting Library|Apache License    |
-| VisJS         |   http://bit.ly/1OUagmW   |   In Browser Viz   |  MIT       |
-| TimesheetJS   |  http://bit.ly/1xSqRCv    | Data & Event Viz    |   MIT      |
-| Chartist      | http://bit.ly/1xSrFao|   Responsive Charts |Do Whatever      |
-| ChartJS       |http://bit.ly/1EY68tT|Clean & Engaging Charts|  PERSONAL |
-| Ember Charts  | http://bit.ly/1C14qG7|EmberJS & D3 Lib| Apache License     |
-| Rahpael       |  http://bit.ly/1IhMcVY    |  Vector Drawing    |   MIT      |
-| Sparky        |   http://bit.ly/19EwDfc   |  Line Chart Lib | Unknown        |
-| PolyJS|http://bit.ly/1Dnbp3x|Interactive Charts|CC Non Commercial      |
-| JQPlot        |  http://bit.ly/19wmSQw    | Plotting & Charting |   MIT      |
-| FFChart Well  |http://bit.ly/1CHiUjq      | TypeFace for Graphs|  Unknown    |
-|Flot|http://www.flotcharts.org|JavaScript Charts for Jquery|PRIVATE|
-|JSXGraph|http://bit.ly/1xA9CW1|Dynamic Mathematics Viz Lib|MIT/GNU|
-#####Maps
-| Framework/SDK            | Link | Type | License |
-|--------------------------|------|------|---------|
-| Leaflet | http://bit.ly/1CIDxvu| Interactive Map     |   PERSONAL      |
-| TopoJSON|http://bit.ly/1EZpBuj| GeoJSON that encodes topology|PERSONAL|
-| Leaflet Plugins|  http://bit.ly/1BIVkho    |  Plugins for Leaflet|  PERSONAL|
-| Leaflet Generator| http://bit.ly/1HhAYjV|  Yoeman Generator    |  -       |
-| Planetary |http://bit.ly/1FeyrqL| Interactive Globes     |    PERSONAL     |
-| Smallworld| http://bit.ly/1bNGcKz|Generate Small Worlds|  PERSONAL       |
-| Turf| http://bit.ly/1Ijbd2O| Geo-spatial Analysis|   MIT      |
-| OsmBuildings |http://osmbuildings.org |   OSM Buildings   | PERSONAL|
-| Open Layers 3|http://openlayers.org|High Performance for Mapping needs|PERSONAL         |
-| Karto Graph|http://kartograph.org|  Interactive Vector Maps    |  LGPL       |
-| Mapsicon|http://bit.ly/1G41aBx      |Maps of All Countries|    -     |
-| Cesium                   | http://cesiumjs.org| WebGl Virtual Globe     |   Messed Up License      |
+----------
 
-#####Text Visualization
-| Framework/SDK         | Link | Type | License |
-|-----------------------|------|------|---------|
-| Tangle  |  http://bit.ly/1Dnsjie    | Reactive Documents     |  MIT       |
-|jqCloud|http://bit.ly/1NESz9c|Tag Cloud|PERSONAL|
 
-#####D3 Based Libraries
-| Framework/SDK   | Link | Type |   |
-|-----------------|------|------|---|
-| NVD3| http://nvd3.org |D3 based reusable Charting Lib   | Apache License V2  |
-| C3| http://c3js.org|   D3 based reusable Charting Lib    | MIT  |
-| DimpleJS| http://dimplejs.org| D3 based reusable Charting Lib     | MIT  |
-| DC| http://bit.ly/1NAI4lm| Dimensional Charting(Based on [CrossFilter](#other-useful-javascript-components))     | Apache License V2  |
-| D3Xter| http://bit.ly/1xU2m7P    | D3 based reusable Charting Lib  | MIT  |
-| MetricsGraphics |http://metricsgraphicsjs.org|OPtimized Viz for Time Series Data      |Mozilla Public License V2   |
-| Epoch|http://bit.ly/1G44VH6 |Realtime Viz Lib      | MIT  |
-| Sparkline|http://bit.ly/1IjkB6P|Small Line Chart without Axis|New BSD   |
-#####Flowchart Libraries
-| Framework/SDK | Link | Type | License |
-|---------------|------|------|---------|
-| JSPlumb       |http://bit.ly/1I01GRA| Connections & Flow|   MIT & GPLv2      |
-|Flowchart.js|http://bit.ly/1G5yd8a|Simple SVG Flowchart Diagram|PRIVATE|
-|JointJS|http://www.jointjs.com|JavaScript Diagramming Lib|Mozilla Public License V2|
-|Wirelt|http://bit.ly/1G5Aj85|create full-web graph editors for dataflow applications, visual programming languages, graphical modeling, or graph editors.|MIT|
-|Ambor.js|http://arborjs.org|A graph visualization library using web workers and jQuery|MIT|
-|js-graph.it|http://bit.ly/1NKdDet|Represent graphs in html pages by linking blocks with connectors|UNKNOWN|
+Synchronization
+-------------------
 
-#####Other Useful JavaScript Components
-| Framework/SDK         | Link | Type | License |
-|-----------------------|------|------|---------|
-| ThreeJS|http://threejs.org|WebGL Lib      |  MIT       |
-| D3JS | http://d3js.org|Data Driven Documents,uses SVG for Viz|PERSONAL|
-|Path.js|http://bit.ly/1BPIEW3|Generate SVG paths for geometric shapes|Apache V2|
-| ProcessingJS| http://processingjs.org|Port to Processing Language for Viz, Design & Interactive Content      |  MIT       |
-| PaperJS|http://paperjs.org| Vector Graphics Scripting     |  PERSONAL       |
-| CrossFilter|http://bit.ly/19yOdl1|Library for Dimensional Filtering      | Apache License V2 |
+StackEdit can be combined with <i class="icon-provider-gdrive"></i> **Google Drive** and <i class="icon-provider-dropbox"></i> **Dropbox** to have your documents saved in the *Cloud*. The synchronization mechanism takes care of uploading your modifications or downloading the latest version of your documents.
 
-####Java
-| Framework/SDK | Link | Type | Platform | License |
-|---------------|-----------------------|----------------------------|----------------|----------------|
-| JavaFX | http://bit.ly/1ybbNun | Rich Internet applications | Cross-platform | parts underGPL |
-| Prefuse | http://bit.ly/1OA2jmB | Java 2D graphics library | - | BSD license |
-| JFree | http://bit.ly/1bwz7ho | Plotting Software | Cross-platform | LGPL |
-| Jung | http://bit.ly/1BNIiic | graph clustering | Cross-platform | BSDlicense |
+> **Note:**
 
-____________________________________________________________________
+> - Full access to **Google Drive** or **Dropbox** is required to be able to import any document in StackEdit. Permission restrictions can be configured in the settings.
+> - Imported documents are downloaded in your browser and are not transmitted to a server.
+> - If you experience problems saving your documents on Google Drive, check and optionally disable browser extensions, such as Disconnect.
 
-####Flash
-| Framework/SDK         | Link | Type | License |
-|-----------------------|------|------|---------|
+#### <i class="icon-refresh"></i> Open a document
 
-_____________________________________________________________________
-####Processing
-| Framework/SDK         | Link | Type | License |
-|-----------------------|------|------|---------|
-_____________________________________________________________________
-####Python
-| Framework/SDK | Link | Type | License |
-|---------------|----------------------------|---------------------------|----------|
-| Bokeh | http://bit.ly/1IyyjDy | Interactive Visualization | BSD |
-| Vispy | http://bit.ly/1FL7bTj | OpenGL | BSD |
-| Seaborn | http://stanford.io/1EXCN5p | Statistical Visualization | PERSONAL |
-| Matplotlib | http://bit.ly/1GZiQet | 2D Plotting | PSF |
-| Python IGraph | http://bit.ly/1NiYi2x | Graph/Plots | GPL |
-| ggPlot | http://bit.ly/1Gsz1my | Plots | PERSONAL |
-| NetworkX | http://bit.ly/1ycAuX7 | Complex Networks |  |
-| PyGraphViz |http://bit.ly/1G4IuS0|GraphViz & Viz Lib | BSD |
-| Pandas |http://pandas.pydata.org|High Performance Data Structure & Analysis tool  | BSD |
-| PyGal |http://pygal.org  |Python svg Graph plotting Library|GNU Lesser GPL  |
-| Plotly |https://plot.ly  |Online Data Visualization  |PRIVATE  |
+You can open a document from <i class="icon-provider-gdrive"></i> **Google Drive** or the <i class="icon-provider-dropbox"></i> **Dropbox** by opening the <i class="icon-refresh"></i> **Synchronize** sub-menu and by clicking **Open from...**. Once opened, any modification in your document will be automatically synchronized with the file in your **Google Drive** / **Dropbox** account.
 
-_________________________________________________________________________
-####Ruby
-| Framework/SDK         | Link | Type | License |
-|-----------------------|------|------|---------|
-__________________________________________________
-####R
-| Framework/SDK         | Link | Type | License |
-|-----------------------|------|------|---------|
-_________________________________________________
+#### <i class="icon-refresh"></i> Save a document
+
+You can save any document by opening the <i class="icon-refresh"></i> **Synchronize** sub-menu and by clicking **Save on...**. Even if your document is already synchronized with **Google Drive** or **Dropbox**, you can export it to a another location. StackEdit can synchronize one document with multiple locations and accounts.
+
+#### <i class="icon-refresh"></i> Synchronize a document
+
+Once your document is linked to a <i class="icon-provider-gdrive"></i> **Google Drive** or a <i class="icon-provider-dropbox"></i> **Dropbox** file, StackEdit will periodically (every 3 minutes) synchronize it by downloading/uploading any modification. A merge will be performed if necessary and conflicts will be detected.
+
+If you just have modified your document and you want to force the synchronization, click the <i class="icon-refresh"></i> button in the navigation bar.
+
+> **Note:** The <i class="icon-refresh"></i> button is disabled when you have no document to synchronize.
+
+#### <i class="icon-refresh"></i> Manage document synchronization
+
+Since one document can be synchronized with multiple locations, you can list and manage synchronized locations by clicking <i class="icon-refresh"></i> **Manage synchronization** in the <i class="icon-refresh"></i> **Synchronize** sub-menu. This will let you remove synchronization locations that are associated to your document.
+
+> **Note:** If you delete the file from **Google Drive** or from **Dropbox**, the document will no longer be synchronized with that location.
+
+----------
+
+
+Publication
+-------------
+
+Once you are happy with your document, you can publish it on different websites directly from StackEdit. As for now, StackEdit can publish on **Blogger**, **Dropbox**, **Gist**, **GitHub**, **Google Drive**, **Tumblr**, **WordPress** and on any SSH server.
+
+#### <i class="icon-upload"></i> Publish a document
+
+You can publish your document by opening the <i class="icon-upload"></i> **Publish** sub-menu and by choosing a website. In the dialog box, you can choose the publication format:
+
+- Markdown, to publish the Markdown text on a website that can interpret it (**GitHub** for instance),
+- HTML, to publish the document converted into HTML (on a blog for example),
+- Template, to have a full control of the output.
+
+> **Note:** The default template is a simple webpage wrapping your document in HTML format. You can customize it in the **Advanced** tab of the <i class="icon-cog"></i> **Settings** dialog.
+
+#### <i class="icon-upload"></i> Update a publication
+
+After publishing, StackEdit will keep your document linked to that publication which makes it easy for you to update it. Once you have modified your document and you want to update your publication, click on the <i class="icon-upload"></i> button in the navigation bar.
+
+> **Note:** The <i class="icon-upload"></i> button is disabled when your document has not been published yet.
+
+#### <i class="icon-upload"></i> Manage document publication
+
+Since one document can be published on multiple locations, you can list and manage publish locations by clicking <i class="icon-upload"></i> **Manage publication** in the <i class="icon-provider-stackedit"></i> menu panel. This will let you remove publication locations that are associated to your document.
+
+> **Note:** If the file has been removed from the website or the blog, the document will no longer be published on that location.
+
+----------
+
+
+Markdown Extra
+--------------------
+
+StackEdit supports **Markdown Extra**, which extends **Markdown** syntax with some nice features.
+
+> **Tip:** You can disable any **Markdown Extra** feature in the **Extensions** tab of the <i class="icon-cog"></i> **Settings** dialog.
+
+> **Note:** You can find more information about **Markdown** syntax [here][2] and **Markdown Extra** extension [here][3].
+
+
+### Tables
+
+**Markdown Extra** has a special syntax for tables:
+
+Item     | Value
+-------- | ---
+Computer | $1600
+Phone    | $12
+Pipe     | $1
+
+You can specify column alignment with one or two colons:
+
+| Item     | Value | Qty   |
+| :------- | ----: | :---: |
+| Computer | $1600 |  5    |
+| Phone    | $12   |  12   |
+| Pipe     | $1    |  234  |
+
+
+### Definition Lists
+
+**Markdown Extra** has a special syntax for definition lists too:
+
+Term 1
+Term 2
+:   Definition A
+:   Definition B
+
+Term 3
+
+:   Definition C
+
+:   Definition D
+
+	> part of definition D
+
+
+### Fenced code blocks
+
+GitHub's fenced code blocks are also supported with **Highlight.js** syntax highlighting:
+
+```
+// Foo
+var bar = 0;
+```
+
+> **Tip:** To use **Prettify** instead of **Highlight.js**, just configure the **Markdown Extra** extension in the <i class="icon-cog"></i> **Settings** dialog.
+
+> **Note:** You can find more information:
+
+> - about **Prettify** syntax highlighting [here][5],
+> - about **Highlight.js** syntax highlighting [here][6].
+
+
+### Footnotes
+
+You can create footnotes like this[^footnote].
+
+  [^footnote]: Here is the *text* of the **footnote**.
+
+
+### SmartyPants
+
+SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
+
+|                  | ASCII                        | HTML              |
+ ----------------- | ---------------------------- | ------------------
+| Single backticks | `'Isn't this fun?'`            | 'Isn't this fun?' |
+| Quotes           | `"Isn't this fun?"`            | "Isn't this fun?" |
+| Dashes           | `-- is en-dash, --- is em-dash` | -- is en-dash, --- is em-dash |
+
+
+### Table of contents
+
+You can insert a table of contents using the marker `[TOC]`:
+
+[TOC]
+
+
+### MathJax
+
+You can render *LaTeX* mathematical expressions using **MathJax**, as on [math.stackexchange.com][1]:
+
+The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
+
+$$
+\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
+$$
+
+> **Tip:** To make sure mathematical expressions are rendered properly on your website, include **MathJax** into your template:
+
+```
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+```
+
+> **Note:** You can find more information about **LaTeX** mathematical expressions [here][4].
+
+
+### UML diagrams
+
+You can also render sequence diagrams like this:
+
+```sequence
+Alice->Bob: Hello Bob, how are you?
+Note right of Bob: Bob thinks
+Bob-->Alice: I am good thanks!
+```
+
+And flow charts like this:
+
+```flow
+st=>start: Start
+e=>end
+op=>operation: My Operation
+cond=>condition: Yes or No?
+
+st->op->cond
+cond(yes)->e
+cond(no)->op
+```
+
+> **Note:** You can find more information:
+
+> - about **Sequence diagrams** syntax [here][7],
+> - about **Flow charts** syntax [here][8].
+
+### Support StackEdit
+
+[![](https://cdn.monetizejs.com/resources/button-32.png)](https://monetizejs.com/authorize?client_id=ESTHdCYOi18iLhhO&summary=true)
+
+  [^stackedit]: [StackEdit](https://stackedit.io/) is a full-featured, open-source Markdown editor based on PageDown, the Markdown library used by Stack Overflow and the other Stack Exchange sites.
+
+
+  [1]: http://math.stackexchange.com/
+  [2]: http://daringfireball.net/projects/markdown/syntax "Markdown"
+  [3]: https://github.com/jmcmanus/pagedown-extra "Pagedown Extra"
+  [4]: http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference
+  [5]: https://code.google.com/p/google-code-prettify/
+  [6]: http://highlightjs.org/
+  [7]: http://bramp.github.io/js-sequence-diagrams/
+  [8]: http://adrai.github.io/flowchart.js/
