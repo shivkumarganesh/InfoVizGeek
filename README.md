@@ -91,6 +91,8 @@ Its always better to divide JavaScript or any other library with tons of options
 |Piety|http://bit.ly/1FlK4Mz|Progressive SVG -> pie,donut,bar & line chart|MIT|
 |Chroma.js|http://bit.ly/1BTZRhV|JavaScript library for all kinds of color manipulations|BSD|
 |Recline|http://bit.ly/19M7vU8|A simple but powerful library for building data applications in pure Javascript and HTML.|PRIVATE|
+|Sigma.js|http://sigmajs.org|||
+
 #####Maps
 | Framework/SDK            | Link | Type | License |
 |--------------------------|------|------|---------|
