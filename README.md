@@ -92,6 +92,7 @@ Its always better to divide JavaScript or any other library with tons of options
 |Chroma.js|http://bit.ly/1BTZRhV|JavaScript library for all kinds of color manipulations|BSD|
 |Recline|http://bit.ly/19M7vU8|A simple but powerful library for building data applications in pure Javascript and HTML.|PRIVATE|
 |Sigma.js|http://sigmajs.org|A JavaScript library dedicated to graph drawing|PRIVATE|
+|Envisionjs|http://bit.ly/1DrwKbZ|Envision.js is a library for creating fast, dynamic and interactive HTML5 visualizations.|MIT|
 
 #####Maps
 | Framework/SDK            | Link | Type | License |
