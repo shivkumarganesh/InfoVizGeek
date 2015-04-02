@@ -96,6 +96,7 @@ Its always better to divide JavaScript or any other library with tons of options
 |Vega|http://bit.ly/1IsbO2l|Visualization Grammar|PRIVATE|
 |RAW|http://bit.ly/JBgKKu|The missing link between spreadsheets and vector graphics.|GNU Lesser GPL|
 |echarts|http://bit.ly/1xE4GiV|Enterprise Charts|PRIVATE|
+|Modest Maps|http://modestmaps.com/|Interactive maps for HTML5 developers|BSD|
 
 #####Maps
 | Framework/SDK            | Link | Type | License |
