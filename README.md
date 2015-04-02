@@ -95,6 +95,7 @@ Its always better to divide JavaScript or any other library with tons of options
 |Envisionjs|http://bit.ly/1DrwKbZ|Envision.js is a library for creating fast, dynamic and interactive HTML5 visualizations.|MIT|
 |Vega|http://bit.ly/1IsbO2l|Visualization Grammar|PRIVATE|
 |RAW|http://bit.ly/JBgKKu|The missing link between spreadsheets and vector graphics.|GNU Lesser GPL|
+|echarts|http://bit.ly/1xE4GiV|Enterprise Charts|PRIVATE|
 
 #####Maps
 | Framework/SDK            | Link | Type | License |
