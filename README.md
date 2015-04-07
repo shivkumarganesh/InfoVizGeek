@@ -212,4 +212,4 @@ _________________________________________________
 |Gruff|http://bit.ly/1DHAwy4|A Grapher-Based Triple-Store Browser for AllegroGraph|UNKNOWN|
 |Sgvizler|http://bit.ly/1c577la|Sgvizler is a javascript which renders the result of SPARQL SELECT queries into charts or html elements.|NOT SURE|
 |SOVA|http://stanford.io/1FiJP2b|SOVA (Simple Ontology Visualization API) is a Protege plugin to full ontology visualization. Finally we can show all ontology's elements: classes, individuals, properties, anonymous classes and relations between these object.|LGPL V3|
-|VRAER|http://bit.ly/1GItS9K|||
+|VRAER|http://bit.ly/1GItS9K|Viewing Relations, Attributes, and Entities in RDF|UNKNOWN|
