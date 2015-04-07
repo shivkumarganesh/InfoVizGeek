@@ -210,3 +210,4 @@ _________________________________________________
 | Cytoscape|http://www.cytoscape.org|Cytoscape is an open source software platform for visualizing complex networks and integrating these with any type of attribute data. Also has a [JavaScript Implementation](#flowchart-libraries) |LGPL|
 |RDF-Gravity|http://bit.ly/1JlAWc7|RDF Graph Visualization Tool|PRIVATE|
 |Gruff|http://bit.ly/1DHAwy4|A Grapher-Based Triple-Store Browser for AllegroGraph|UNKNOWN|
+|Sgvizler|http://bit.ly/1c577la|Sgvizler is a javascript which renders the result of SPARQL SELECT queries into charts or html elements.|NOT SURE|
