@@ -192,4 +192,6 @@ __________________________________________________
 ####R
 | Framework/SDK         | Link | Type | License |
 |-----------------------|------|------|---------|
+|rCharts|http://bit.ly/1F9OrNz|R package to create, customize and publish interactive javascript visualizations from R using a familiar lattice style plotting interface.|MIT|
+
 _________________________________________________
