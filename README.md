@@ -55,7 +55,7 @@ We can broadly divide this entire thing into two parts.
 
 ###Advance Topics
 
- 1. Knowledge Representation
+ 1. [Knowledge Representation](#knowledge-representation)
 
  
 ####C
