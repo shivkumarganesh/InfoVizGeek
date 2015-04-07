@@ -157,6 +157,7 @@ Its always better to divide JavaScript or any other library with tons of options
 | ProcessingJS| http://processingjs.org|Port to Processing Language for Viz, Design & Interactive Content      |  MIT       |
 | PaperJS|http://paperjs.org| Vector Graphics Scripting     |  PERSONAL       |
 | CrossFilter|http://bit.ly/19yOdl1|Library for Dimensional Filtering      | Apache License V2 |
+_________________________________________________
 
 ####Java
 | Framework/SDK | Link | Type | Platform | License |
