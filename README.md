@@ -41,6 +41,7 @@ We can broadly divide this entire thing into two parts.
  13. [SAS Visual Analytics](http://www.sas.com/en_us/software/business-intelligence/visual-analytics.html)
  14. [Visua.ly](http://visual.ly/)
  15. [CartoDB](http://cartodb.com/)
+ 16. [iCharts - Cloud Based Solution](http://www.icharts.in/)
 
 ###Frameworks based on Programming Languages
  1. [C](#c)
