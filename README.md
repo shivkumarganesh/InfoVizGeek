@@ -60,6 +60,14 @@ We can broadly divide this entire thing into two parts.
 
 _______
 
+####IOS
+| Framework/SDK 	|  Link	| Type                  	| License                	|
+|------	|---------------	|-----------------------	|------------------------	|
+| ios-charts    	|  http://bit.ly/1c2RISl     	| An iOS port of the beautiful MPAndroidChart. - Beautiful charts for iOS apps! | Apache License V2 	|
+
+
+_______
+
 
 ####JavaScript
 Its always better to divide JavaScript or any other library with tons of options into subsequent subdivisions.
@@ -88,16 +96,6 @@ Its always better to divide JavaScript or any other library with tons of options
 | FFChart Well  |http://bit.ly/1CHiUjq      | TypeFace for Graphs|  Unknown    |
 |Flot|http://www.flotcharts.org|JavaScript Charts for Jquery|PRIVATE|
 |JSXGraph|http://bit.ly/1xA9CW1|Dynamic Mathematics Viz Lib|MIT/GNU|
-|Piety|http://bit.ly/1FlK4Mz|Progressive SVG -> pie,donut,bar & line chart|MIT|
-|Chroma.js|http://bit.ly/1BTZRhV|JavaScript library for all kinds of color manipulations|BSD|
-|Recline|http://bit.ly/19M7vU8|A simple but powerful library for building data applications in pure Javascript and HTML.|PRIVATE|
-|Sigma.js|http://sigmajs.org|A JavaScript library dedicated to graph drawing|PRIVATE|
-|Envisionjs|http://bit.ly/1DrwKbZ|Envision.js is a library for creating fast, dynamic and interactive HTML5 visualizations.|MIT|
-|Vega|http://bit.ly/1IsbO2l|Visualization Grammar|PRIVATE|
-|RAW|http://bit.ly/JBgKKu|The missing link between spreadsheets and vector graphics.|GNU Lesser GPL|
-|echarts|http://bit.ly/1xE4GiV|Enterprise Charts|PRIVATE|
-|Modest Maps|http://modestmaps.com/|Interactive maps for HTML5 developers|BSD|
-
 #####Maps
 | Framework/SDK            | Link | Type | License |
 |--------------------------|------|------|---------|
