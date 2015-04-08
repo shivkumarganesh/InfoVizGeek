@@ -154,6 +154,7 @@ Its always better to divide JavaScript or any other library with tons of options
 |Ambor.js|http://arborjs.org|A graph visualization library using web workers and jQuery|MIT|
 |js-graph.it|http://bit.ly/1NKdDet|Represent graphs in html pages by linking blocks with connectors|UNKNOWN|
 |cytoscape.js|http://bit.ly/1N4RIlo|JavaScript Implementation of [Cytoscape](#knowledge-representation)|LGPL|
+|JSNetworkX|http://jsnetworkx.org/|JSNetworkX allows you to build, process and analyze graphs in JavaScript. It can be used together with D3.js in the browser to create interactive graph visualizations|BSD|
 
 #####Other Useful JavaScript Components
 | Framework/SDK         | Link | Type | License |
