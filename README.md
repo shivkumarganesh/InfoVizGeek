@@ -228,3 +228,4 @@ _________________________________________________
 |SOVA|http://stanford.io/1FiJP2b|SOVA (Simple Ontology Visualization API) is a Protege plugin to full ontology visualization. Finally we can show all ontology's elements: classes, individuals, properties, anonymous classes and relations between these object.|LGPL V3|
 |VRAER|http://bit.ly/1GItS9K|Viewing Relations, Attributes, and Entities in RDF|UNKNOWN|
 |Wandora|http://wandora.org|Wandora is a tool for people who collect and process information, especially networked knowledge and knowledge about WWW resources|GNU GPL V3|
+|Gource|http://bit.ly/1DIJD1s|Software Version Control Visualization|GNU GPL V3|
