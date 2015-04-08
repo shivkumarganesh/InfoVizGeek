@@ -104,6 +104,7 @@ Its always better to divide JavaScript or any other library with tons of options
 |Flot|http://www.flotcharts.org|JavaScript Charts for Jquery|PRIVATE|
 |JSXGraph|http://bit.ly/1xA9CW1|Dynamic Mathematics Viz Lib|MIT/GNU|
 |gRaphaël|http://g.raphaeljs.com|gRaphaël’s goal is to help you create stunning charts on your website. It is based on Raphaël graphics library.|MIT|
+
 #####Maps
 | Framework/SDK            | Link | Type | License |
 |--------------------------|------|------|---------|
@@ -137,6 +138,7 @@ Its always better to divide JavaScript or any other library with tons of options
 | MetricsGraphics |http://metricsgraphicsjs.org|OPtimized Viz for Time Series Data      |Mozilla Public License V2   |
 | Epoch|http://bit.ly/1G44VH6 |Realtime Viz Lib      | MIT  |
 | Sparkline|http://bit.ly/1IjkB6P|Small Line Chart without Axis|New BSD   |
+|Dynamic-Charts|http://bit.ly/1E3BlzT|Dynamically populated graphs|TBD|
 #####Flowchart Libraries
 | Framework/SDK | Link | Type | License |
 |---------------|------|------|---------|
