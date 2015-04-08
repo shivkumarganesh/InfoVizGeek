@@ -157,6 +157,7 @@ Its always better to divide JavaScript or any other library with tons of options
 | ProcessingJS| http://processingjs.org|Port to Processing Language for Viz, Design & Interactive Content      |  MIT       |
 | PaperJS|http://paperjs.org| Vector Graphics Scripting     |  PERSONAL       |
 | CrossFilter|http://bit.ly/19yOdl1|Library for Dimensional Filtering      | Apache License V2 |
+|Dance.js||Dance.js is a simple data-driven visualization framework. It's basically a flavor of Backbone.js, but enriched with some of the ideas of the very popular D3.js visualization framework|PRIVATE|
 _________________________________________________
 
 ####Java
