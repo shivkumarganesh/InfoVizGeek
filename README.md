@@ -138,8 +138,9 @@ Its always better to divide JavaScript or any other library with tons of options
 | D3Xter| http://bit.ly/1xU2m7P    | D3 based reusable Charting Lib  | MIT  |
 | MetricsGraphics |http://metricsgraphicsjs.org|OPtimized Viz for Time Series Data      |Mozilla Public License V2   |
 | Epoch|http://bit.ly/1G44VH6 |Realtime Viz Lib      | MIT  |
-| Sparkline|http://bit.ly/1IjkB6P|Small Line Chart without Axis|New BSD   |
+| Sparkline|http://bit.ly/1IjkB6P|Small Line Chart without Axis|New BSD  |
 |Dynamic-Charts|http://bit.ly/1E3BlzT|Dynamically populated graphs|TBD|
+|Cubism.js|http://bit.ly/1E3C8Ra|Cubism.js is a D3 plugin for visualizing time series. Use Cubism to construct better realtime dashboards, pulling data from Graphite, Cube and other sources|Apache License|
 #####Flowchart Libraries
 | Framework/SDK | Link | Type | License |
 |---------------|------|------|---------|
