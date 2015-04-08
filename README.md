@@ -229,3 +229,6 @@ _________________________________________________
 |VRAER|http://bit.ly/1GItS9K|Viewing Relations, Attributes, and Entities in RDF|UNKNOWN|
 |Wandora|http://wandora.org|Wandora is a tool for people who collect and process information, especially networked knowledge and knowledge about WWW resources|GNU GPL V3|
 |Gource|http://bit.ly/1DIJD1s|Software Version Control Visualization|GNU GPL V3|
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/shivkumarganesh/infovizgeek/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
