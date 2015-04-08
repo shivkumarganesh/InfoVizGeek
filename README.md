@@ -42,6 +42,7 @@ We can broadly divide this entire thing into two parts.
  14. [Visua.ly](http://visual.ly/)
  15. [CartoDB](http://cartodb.com/)
  16. [iCharts - Cloud Based Solution](http://www.icharts.in/)
+ 17. [iCharts.net](http://icharts.net/)
  17. [Tributary](http://tributary.io/)
  18. [DASHKU](https://dashku.com/)
 
