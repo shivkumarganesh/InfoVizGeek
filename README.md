@@ -168,6 +168,7 @@ Its always better to divide JavaScript or any other library with tons of options
 | CrossFilter|http://bit.ly/19yOdl1|Library for Dimensional Filtering      | Apache License V2 |
 |Dance.js|http://bit.ly/1CdZ1wC|Dance.js is a simple data-driven visualization framework. It's basically a flavor of Backbone.js, but enriched with some of the ideas of the very popular D3.js visualization framework|PRIVATE|
 |iopctrl.js|http://iop.io/iopctrl|OpenSource Library for making simple user interface controls leveraged by D3|UNKNOWN|
+|Visual sedimentation|http://www.visualsedimentation.org|Visual sedimentation is a novel design metaphor that progressively generates and updates visualizations of streaming data, inspired by the process of physical sedimentation|PRIVATE|
 _________________________________________________
 
 ####Java
@@ -229,6 +230,3 @@ _________________________________________________
 |VRAER|http://bit.ly/1GItS9K|Viewing Relations, Attributes, and Entities in RDF|UNKNOWN|
 |Wandora|http://wandora.org|Wandora is a tool for people who collect and process information, especially networked knowledge and knowledge about WWW resources|GNU GPL V3|
 |Gource|http://bit.ly/1DIJD1s|Software Version Control Visualization|GNU GPL V3|
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/shivkumarganesh/infovizgeek/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
