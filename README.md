@@ -163,6 +163,7 @@ Its always better to divide JavaScript or any other library with tons of options
 | PaperJS|http://paperjs.org| Vector Graphics Scripting     |  PERSONAL       |
 | CrossFilter|http://bit.ly/19yOdl1|Library for Dimensional Filtering      | Apache License V2 |
 |Dance.js|http://bit.ly/1CdZ1wC|Dance.js is a simple data-driven visualization framework. It's basically a flavor of Backbone.js, but enriched with some of the ideas of the very popular D3.js visualization framework|PRIVATE|
+|iopctrl.js|http://iop.io/iopctrl|OpenSource Library for making simple user interface controls leveraged by D3|UNKNOWN|
 _________________________________________________
 
 ####Java
