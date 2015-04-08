@@ -1,7 +1,7 @@
 InfoViz Geek 
 ==========
 ![Made By Information Visualization Geeks](https://raw.githubusercontent.com/shivkumarganesh/InfoVizGeek/master/Webchemy.png)
-
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/shivkumarganesh/infovizgeek/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 ###Introduction
 InfoVizGeek is a project which talks about the different tools and technologies which would enable an individual to create data visualizations. This repo has a vast list of tools along with their licensing available. This is an exhaustive list and I would be glad to accept additional tools which you guys out there in community use.
 
@@ -233,4 +233,3 @@ _________________________________________________
 |Gource|http://bit.ly/1DIJD1s|Software Version Control Visualization|GNU GPL V3|
 
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/shivkumarganesh/infovizgeek/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
