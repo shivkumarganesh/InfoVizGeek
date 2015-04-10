@@ -108,6 +108,7 @@ Its always better to divide JavaScript or any other library with tons of options
 |Flot|http://www.flotcharts.org|JavaScript Charts for Jquery|PRIVATE|
 |JSXGraph|http://bit.ly/1xA9CW1|Dynamic Mathematics Viz Lib|MIT/GNU|
 |gRaphaël|http://g.raphaeljs.com|gRaphaël’s goal is to help you create stunning charts on your website. It is based on Raphaël graphics library.|MIT|
+|Highcharts|http://www.highcharts.com|Create interactive charts easily for your web projects|CC Non-Commercial V3 or PRIVATE|
 
 #####Maps
 | Framework/SDK            | Link | Type | License |
