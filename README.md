@@ -46,6 +46,7 @@ We can broadly divide this entire thing into two parts.
  17. [Tributary](http://tributary.io/)
  18. [DASHKU](https://dashku.com/)
  19. [Gephi - Open Source Viz Platform](http://gephi.github.io/)
+ 20. [Orange](http://orange.biolab.si/)
 
 ###Frameworks based on Programming Languages
  1. [C](#c)
